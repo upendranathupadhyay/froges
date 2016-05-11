@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans  
+    xmlns="http://www.springframework.org/schema/beans"  
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+    xmlns:p="http://www.springframework.org/schema/p"  
+    xsi:schemaLocation="http://www.springframework.org/schema/beans  
+               http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">  
+  
+<bean id="bean1" class="com.hellospring.Message1">
+</bean>  
+<bean id="bean2" class="com.hellospring.Message2">
+</bean>
+ <bean id="emp" class="com.gettersetterexample.Employee">
+ <property name="ename">
+ <value>"ramchandra chauhan"</value>
+ </property>
+ <property name="address">
+ <value>"ayodhya"</value>
+ </property>
+ <bean id="emp1" class="com.constructorexample.Employee">
+ </bean>
+ </bean>
+
+</beans> 

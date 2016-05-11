@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.hellospring.Message1"/>
+<fullyQualifiedTypeName name="com.gettersetterexample.Employee"/>
+<fullyQualifiedTypeName name="com.factory.DogBreed"/>
+<fullyQualifiedTypeName name="com.collabration.Flower"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="com.collabration.FlowerDetail"/>
+</qualifiedTypeNameHistroy>
